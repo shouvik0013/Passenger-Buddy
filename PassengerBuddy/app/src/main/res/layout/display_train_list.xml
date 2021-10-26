@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#3E3EB9"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/sourceStationDisplaytrain"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:text="Sealdah"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_fast_forward_black_24dp"
+            android:padding="20dp"/>
+
+        <TextView
+            android:id="@+id/destinationStationDisplaytrain"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:text="Dum Dum Junction"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/displayTrainListListView">
+
+    </ListView>
+
+</LinearLayout>

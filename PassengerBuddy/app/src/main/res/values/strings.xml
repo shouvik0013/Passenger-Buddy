@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Passenger Buddy</string>
+
+    <!-- name of sharedpreference -->
+    <string name="login_preference">com.example.passengerbuddy_login_preference</string>
+    <string name="login_status_preference">com.example.passengerbuddy_login_status_preference</string>
+
+    <string name="open">Opening Drawer</string>
+    <string name="close">Closing Drawer</string>
+    <string name="userId">com.example.passengerbuddy_userId</string>
+    <string name="userName">com.example.passengerbuddy_userName</string>
+
+    <string name="signup"><u>Signup</u></string>
+</resources>

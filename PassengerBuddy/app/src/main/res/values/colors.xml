@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="splashTextColor">#FFF</color>
+    <color name="trainNumber">#2196F3</color>
+    <color name="red">#FD0303</color>
+    <color name="yellow">#FFEF5F</color>
+    <color name="green">#ACF35B</color>
+    <color name="white">#FFF</color>
+    <color name="blue">#2F82F0</color>
+    <color name="blue2">#3F51B5</color>
+    <color name="testColor">#74C9F7</color>
+    <color name="offWhite">#F0EBEB</color>
+    <color name="pitchBlack">#130101</color>
+</resources>

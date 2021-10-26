@@ -1,0 +1,10 @@
+.cell {
+    padding: 5px 10px;
+    text-align: left;
+  }
+
+  .table {
+    border-collapse: collapse;
+    border-style: hidden;
+    margin-top: 50px;
+  }

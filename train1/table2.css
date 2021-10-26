@@ -1,0 +1,18 @@
+table, td, th {
+  border: 1px solid black;
+}
+
+.table{
+  border-collapse: collapse;
+}
+
+td{
+  text-align:center;
+
+}
+#row1{
+  background-color:#063;
+  color:#FFF;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:14px;
+}
